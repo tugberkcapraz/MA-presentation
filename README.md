@@ -9,6 +9,8 @@ Linear models, unlike algorithmic modelling, necessitates researchers to have we
 
 In social sciences the common practice is building statistical models without specifying the interactions and non-linearities.  
 However, this approach is problematic due to following reasons. 
+
+
 **1)** Social relationships are too complex and it's a fundamentally challenging task to come up with a well-defined theoretical representation of the social reality.
 **2)** There is no reason to assume linearity in social relations. In fact, social relationships mostly are of non-linear nature.
 

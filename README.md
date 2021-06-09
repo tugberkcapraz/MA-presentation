@@ -1,3 +1,8 @@
+
+# NOTE
+THIS REPOSITORY WAS CREATED FOR THE MASTER'S THESIS COLLOQUIUM. I DO NOT BACK UP THESE VIEWS ANYMORE.
+
+
 # MA-Thesis
 Here the Analysis for My Master's thesis can be found. 
 This thesis relies on Explainable Artificial Intelligence Framework. E.A.I.F is the name that is given to very operation of
